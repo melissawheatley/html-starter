@@ -1,0 +1,36 @@
+body{
+    background-color: #8ae2cc;
+}
+
+
+footer{
+    background-color: red;
+    color: bisque;
+    text-align: center;
+    padding: 1em;
+}
+
+.container{
+    background-color: bisque;
+    margin: 1em;
+}
+
+.aside {
+    background-color: #010100;
+    color: bisque;
+    padding: 1em;
+}
+
+.flex-container{
+    flex: display;
+    display: -webkit-flex;
+    width: 90%;
+}
+
+.flex-section{
+
+}
+
+.flex-item{
+    margin: 1em;
+}
